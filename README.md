@@ -1,7 +1,8 @@
 CppCon 2014 Speaker Materials
 =============================
 
-Stay tuned for presentations and source code from the CppCon 2014 sessions!
+https://github.com/CppCon/CppCon2014 is the canonical location for presentations
+and code from [CppCon 2014](http://cppcon.org).
 
 ## For Speakers - Submitting Materials
 
