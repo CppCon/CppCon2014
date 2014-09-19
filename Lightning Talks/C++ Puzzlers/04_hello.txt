@@ -1,0 +1,12 @@
+Puzzler:
+
+Write a portable C++ (and/or a C) program to display
+
+	Hello, World
+
+on the standard output--
+
+	WITHOUT USING *ANY* SEMICOLONS IN YOUR CODE.
+
+	(Do not worry about what's in Standard header files.)
+
