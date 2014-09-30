@@ -1,7 +1,16 @@
 CppCon 2014 Speaker Materials
 =============================
 
-Stay tuned for presentations and source code from the CppCon 2014 sessions!
+https://github.com/CppCon/CppCon2014 is the canonical location for presentations
+and code from [CppCon 2014](http://cppcon.org).
+
+## Downloading a single presentation from GitHub
+
+To download a single presentation:
+
+1. Navigate to the folder containing the presentation.
+2. Click on the presentation's filename.
+3. Click the "View Raw" link near the bottom of the page.
 
 ## For Speakers - Submitting Materials
 
